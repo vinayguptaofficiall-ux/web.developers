@@ -1,0 +1,1507 @@
+{
+  "restaurant": "Froth and friends Cafè",
+  "slug": "froth-and-friends",
+  "currency": "INR",
+  "items": [
+    {
+      "name": "Green Salad",
+      "price": 142,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Cream Of Mushroom Soup",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Paneer Picking Soup",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Veg Hot And Sour Soup",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Chicken Continental Cornny Soup",
+      "price": 403,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Hot And Sour Chicken Soup",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "soups-and-salads",
+      "labels": []
+    },
+    {
+      "name": "Hot And Spicy Wings",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Black Pepper Wings",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Crispy Wings",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Barbeque Wings",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Chicken Satay",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Italian Chicken",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Crispy Golden Chicken",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Korean Chicken",
+      "price": 493,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Hong Kong Chicken",
+      "price": 454,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Thai Chicken",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Mexican Chicken",
+      "price": 480,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Burnt Garlic Basil Fish",
+      "price": 506,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Roasted Fish Kebab",
+      "price": 493,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Pesto Grilled Fish",
+      "price": 506,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Thai Prawns",
+      "price": 545,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Spicy Cracker Prawns",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Bangaru Royyala",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Cheeseey Stuffed Mushroom",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Italian Paneer",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Hong Kong Paneer",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Mushroom Keema Balls",
+      "price": 376,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Mexican Paneer",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Singapuri Paneer",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Thai Paneer",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "starters",
+      "labels": []
+    },
+    {
+      "name": "Jalapeno And Onion Pizza [10 Inches]",
+      "price": 584,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Make Your Own Pizza [10 Inches]",
+      "price": 715,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Paneer Barbeque Pizza [10 Inches]",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Paneer Tikka Pizza [10 Inches]",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Fungi Pizza [10 Inches]",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Veggie Burst Pizza [10 Inches]",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Classic Italian Pizza [10 Inches]",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Iron Pie Pizza [10 Inches]",
+      "price": 636,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Jalapeno Chicken Pizza [10 Inches]",
+      "price": 636,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Chicken 65 Pizza [10 Inches]",
+      "price": 610,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Chicken Tikka Pizza [10 Inches]",
+      "price": 610,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Barbeque Sausage Pizza [10 Inches]",
+      "price": 649,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Jamaican Jerk Veg Pizza [10 Inches]",
+      "price": 610,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Jamaican Jerk Non Veg Pizza [10 Inches]",
+      "price": 636,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "The OG Mac N Cheese",
+      "price": 454,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Veg Pesto Spaghetti",
+      "price": 506,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Pinkyy Veg Pasta",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Pesto Chicken Pasta",
+      "price": 519,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Alfredo Chicken Pasta",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Arrabita Chicken Pasta",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Crispy Chicken Mac N Cheese",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "pizza-and-pasta",
+      "labels": []
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Crispy Paneer Burger",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Paneer Tikka Burger",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Barbeque Chicken Burger",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Chicken 65 Burger",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Chicken Tikka Burger",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Spinach Corn Cheese Sandwich",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Paneer Popper Sandwich",
+      "price": 324,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Grill Cheese Sandwich",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Pesto Chicken Sandwich",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Chicken Cheese Sandwich",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Chicken Club Sandwich",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Chicken Tikka Sandwich",
+      "price": 376,
+      "description": "",
+      "image": "",
+      "category": "burgers-and-sandwiches",
+      "labels": []
+    },
+    {
+      "name": "Salted French Fries",
+      "price": 194,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 207,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Cheesey Loaded Fries",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Veg Loaded Nachos",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Veg Garlic Bread",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Paneer Poppers",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Jalapeno Pocket",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Baby Corn Kurkure",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Chicken Poppers",
+      "price": 376,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Chicken Keema Loaded Fries",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Cheese Chicken Garlic Bread",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Fish N Chips",
+      "price": 493,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Mushroom Duplex",
+      "price": 376,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Cheese Cigar Roll",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Cuban Cigar Roll",
+      "price": 389,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Dragon Egg",
+      "price": 259,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Chicken Cheesy Cigar Roll",
+      "price": 428,
+      "description": "",
+      "image": "",
+      "category": "snacks",
+      "labels": []
+    },
+    {
+      "name": "Crispy Potato Wrap",
+      "price": 324,
+      "description": "",
+      "image": "",
+      "category": "wraps",
+      "labels": []
+    },
+    {
+      "name": "Paneer Loaded Wrap",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "wraps",
+      "labels": []
+    },
+    {
+      "name": "Pesto Chicken Wrap",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "wraps",
+      "labels": []
+    },
+    {
+      "name": "Barbeque Chicken Wrap",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "wraps",
+      "labels": []
+    },
+    {
+      "name": "Crispy Chicken Cheese Wrap",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "wraps",
+      "labels": []
+    },
+    {
+      "name": "Peach Espresso Martini",
+      "price": 376,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Passion Fruit Espresso Martini",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Cranberry Espresso Martini",
+      "price": 363,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Vietnamese Iced Coffee",
+      "price": 467,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Crunchy Chocolate Thickshake",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Coconut Thickshake",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Jack N Jill Thickshake",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Berry Thickshake",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Oreo Thickshake",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Peanut Butter Almond Thickshake",
+      "price": 324,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Mocha Thickshake",
+      "price": 350,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Nutella Brownie Thickshake",
+      "price": 402,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "KitKat Thickshake",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "KitKat Oreo Thickshake",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Chocolate KitKat Thickshake",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Crunchyyyy Biscoff Thickshake",
+      "price": 324,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Tropical Thickshake",
+      "price": 311,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "The Virgins Mojito",
+      "price": 220,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "The Breeze Mojito",
+      "price": 220,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "The Watermelon Mint Mojito",
+      "price": 220,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Blueberry Mojito",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Raspberry Mojito",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "The Lovers Mojito",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "The Gingyyyy Lemon Mojito",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Blue Heaven Mojito",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Cranberry Mojito",
+      "price": 259,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Lovers Mojito",
+      "price": 181,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "The P And M Mocktail",
+      "price": 324,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Salt Limoncello",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Sweet Limoncello",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Berry Cocktail",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Pina Colado",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": [
+        "Non Alcoholic"
+      ]
+    },
+    {
+      "name": "Body Chiller Soda",
+      "price": 207,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Masala Nimbu Soda",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Water Mellow Juice",
+      "price": 59,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Classic Iced Tea",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Peach Iced Tea",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Passion Fruit Iced Tea",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Honey And Lemon Iced Tea",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Green Tea",
+      "price": 142,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Peach Apricot Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Honey Chamomile Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Assam Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Lemon Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Ginger Honey Lemon Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Strawberry Hibiscus Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Darjeeling Tea",
+      "price": 155,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Iced Espresso",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Cold Brew",
+      "price": 220,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Chocolate Frappe",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Caramel Frappe",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Salted Caramel Frappe",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Vanilla Frappe",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Nutella Frappe",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "drinks",
+      "labels": []
+    },
+    {
+      "name": "Espresso",
+      "price": 116,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Doppio",
+      "price": 142,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Cortado",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Long Black Coffee",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Americano",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Cappuccino",
+      "price": 194,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Nutella Cappuccino",
+      "price": 233,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Hazelnut Cappuccino",
+      "price": 233,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Caramel Cappuccino",
+      "price": 233,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Salted Caramel Cappuccino",
+      "price": 233,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Vanilla Cappuccino",
+      "price": 233,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Latte",
+      "price": 181,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Hazelnut Latte",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Caramel Latte",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Salted Caramel Latte",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Nutella Latte",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Vanilla Latte",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Mocha",
+      "price": 220,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Flat White [Regular]",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Macchiato",
+      "price": 168,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Affogato",
+      "price": 246,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Biscoff Cappuccino",
+      "price": 272,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Biscoff Latte",
+      "price": 285,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Nutella Affogato",
+      "price": 298,
+      "description": "",
+      "image": "",
+      "category": "coffee",
+      "labels": []
+    },
+    {
+      "name": "Thai Green Rice Bowl [1000 Ml]",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Thai Red Veg Rice Bowl",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Italian Veg Rice Bowl",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Chicken Thai Green Rice Bowl",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Chicken Thai Red Rice Bowl",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Italian Chicken Rice Bowl",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Chicken Mangolian Rice Bowl",
+      "price": 597,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Italian Prawns Rice Bowl",
+      "price": 623,
+      "description": "",
+      "image": "",
+      "category": "bowls",
+      "labels": []
+    },
+    {
+      "name": "Thai Green Rice Bowl [1000 Ml]",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Thai Red Veg Rice Bowl",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Italian Veg Rice Bowl",
+      "price": 532,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Chicken Thai Green Rice Bowl",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Chicken Thai Red Rice Bowl",
+      "price": 571,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Italian Chicken Rice Bowl",
+      "price": 558,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Chicken Mangolian Rice Bowl",
+      "price": 597,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    },
+    {
+      "name": "Italian Prawns Rice Bowl",
+      "price": 623,
+      "description": "",
+      "image": "",
+      "category": "noodles",
+      "labels": []
+    }
+  ]
+}

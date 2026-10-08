@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import type { Business } from '../data/businesses';
 import { useCart } from '../context/CartContext';
-import { X, Plus, Minus, ShoppingBag, Sparkles, Flame, Check } from 'lucide-react';
+import { ImageWithFallback } from './ImageWithFallback';
+import { X, Plus, Minus, ShoppingBag, Check } from 'lucide-react';
 
 interface FoodDetailModalProps {
   business: Business;
@@ -20,6 +21,7 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
   if (!selectedFoodItem) return null;
 
   const handleAdd = () => {
+    if (selectedFoodItem.price === null) return;
     addToCart(selectedFoodItem, business.id, quantity);
     setAddedSuccess(true);
     setTimeout(() => {
@@ -41,38 +43,26 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
           <X className="w-5 h-5" />
         </button>
 
-        {/* Top High-Res Image Banner */}
-        <div className="relative h-64 sm:h-72 w-full overflow-hidden bg-slate-950 shrink-0">
-          <img
+        {/* Top Image Banner */}
+        <div className="relative h-56 sm:h-64 w-full overflow-hidden bg-slate-950 shrink-0">
+          <ImageWithFallback
             src={selectedFoodItem.image}
             alt={selectedFoodItem.name}
-            className="w-full h-full object-cover"
+            className="w-full h-full"
+            accentColor={business.theme.accentHex}
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
+          <div className="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent pointer-events-none"></div>
 
-          {/* Dietary Badge */}
-          <div className="absolute bottom-4 left-4 flex items-center gap-2">
-            <span className={`px-2.5 py-1 rounded-full text-xs font-bold border flex items-center gap-1.5 ${
-              selectedFoodItem.isVeg
-                ? 'bg-emerald-950/80 text-emerald-400 border-emerald-500/40'
-                : 'bg-rose-950/80 text-rose-400 border-rose-500/40'
-            }`}>
-              <span className={`w-2 h-2 rounded-full ${selectedFoodItem.isVeg ? 'bg-emerald-400' : 'bg-rose-400'}`}></span>
-              {selectedFoodItem.isVeg ? 'Vegetarian' : 'Non-Vegetarian'}
-            </span>
-
-            {selectedFoodItem.isBestseller && (
-              <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40 flex items-center gap-1">
-                <Sparkles className="w-3.5 h-3.5" /> Bestseller
-              </span>
-            )}
-
-            {selectedFoodItem.isSpicy && (
-              <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-rose-500/20 text-rose-300 border border-rose-500/40 flex items-center gap-1">
-                <Flame className="w-3.5 h-3.5" /> Spicy
-              </span>
-            )}
-          </div>
+          {/* Labels */}
+          {(selectedFoodItem.labels ?? []).length > 0 && (
+            <div className="absolute bottom-4 left-4 flex flex-wrap gap-1.5">
+              {(selectedFoodItem.labels ?? []).map((label) => (
+                <span key={label} className="px-2.5 py-1 rounded-full text-xs font-bold bg-slate-950/80 text-slate-300 border border-slate-700">
+                  {label}
+                </span>
+              ))}
+            </div>
+          )}
         </div>
 
         {/* Content Body */}
@@ -87,12 +77,12 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
               </h3>
             </div>
             <span className="text-xl font-extrabold text-white bg-slate-950 px-3 py-1.5 rounded-xl border border-slate-800">
-              ₹{selectedFoodItem.price}
+              {selectedFoodItem.price !== null ? `₹${selectedFoodItem.price}` : 'Price on request'}
             </span>
           </div>
 
           <p className="text-sm text-slate-300 leading-relaxed">
-            {selectedFoodItem.description}
+            {selectedFoodItem.description || 'No description available.'}
           </p>
 
           {selectedFoodItem.ingredients && selectedFoodItem.ingredients.length > 0 && (
@@ -139,22 +129,21 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
           {/* Add to Cart Button */}
           <button
             onClick={handleAdd}
-            disabled={addedSuccess}
+            disabled={addedSuccess || selectedFoodItem.price === null}
             className={`flex-1 py-3.5 px-6 rounded-xl font-bold text-sm flex items-center justify-center gap-2 transition-all ${
               addedSuccess
                 ? 'bg-emerald-500 text-slate-950 font-bold'
+                : selectedFoodItem.price === null
+                ? 'bg-slate-800 text-slate-500 cursor-not-allowed'
                 : business.theme.buttonClass
             }`}
           >
             {addedSuccess ? (
-              <>
-                <Check className="w-4 h-4 stroke-[3]" /> Added to Cart!
-              </>
+              <><Check className="w-4 h-4 stroke-[3]" /> Added to Cart!</>
+            ) : selectedFoodItem.price === null ? (
+              <>Price on request</>
             ) : (
-              <>
-                <ShoppingBag className="w-4 h-4" />
-                Add to Cart • ₹{selectedFoodItem.price * quantity}
-              </>
+              <><ShoppingBag className="w-4 h-4" /> Add to Cart • ₹{selectedFoodItem.price * quantity}</>
             )}
           </button>
 

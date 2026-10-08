@@ -1,6 +1,7 @@
 import React from 'react';
 import type { Business } from '../data/businesses';
 import { useCart } from '../context/CartContext';
+import { ImageWithFallback } from './ImageWithFallback';
 import { X, Plus, Minus, Trash2, ArrowRight, UtensilsCrossed } from 'lucide-react';
 
 interface CartDrawerProps {
@@ -89,18 +90,16 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({ business }) => {
                     key={item.id}
                     className="p-3.5 rounded-2xl bg-slate-950/60 border border-slate-800 flex items-center gap-3"
                   >
-                    <img
-                      src={item.image}
-                      alt={item.name}
-                      className="w-16 h-16 rounded-xl object-cover shrink-0"
-                    />
+                    <div className="w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-slate-900">
+                      <ImageWithFallback src={item.image} alt={item.name} className="w-16 h-16" accentColor="#94a3b8" />
+                    </div>
 
                     <div className="flex-1 min-w-0">
                       <h4 className="text-sm font-bold text-white truncate">
                         {item.name}
                       </h4>
                       <p className="text-xs font-semibold text-amber-400 mt-0.5">
-                        ₹{item.price}
+                        {item.price !== null ? `₹${item.price}` : 'Price on request'}
                       </p>
 
                       <div className="mt-2 flex items-center gap-2">
@@ -123,7 +122,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({ business }) => {
                         </div>
 
                         <span className="text-xs font-extrabold text-white ml-auto">
-                          ₹{item.price * quantity}
+                          {item.price !== null ? `₹${item.price * quantity}` : ''}
                         </span>
                       </div>
                     </div>

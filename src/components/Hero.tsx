@@ -1,149 +1,197 @@
 import React from 'react';
 import type { Business } from '../data/businesses';
-import { Star, MapPin, ArrowRight, Utensils, Calendar, Sparkles, Navigation, ShoppingBag } from 'lucide-react';
+import {
+  Star, MapPin, ArrowRight, Utensils,
+  Clock, ShoppingBag, Navigation, Phone,
+} from 'lucide-react';
 
 interface HeroProps {
   business: Business;
 }
 
 export const Hero: React.FC<HeroProps> = ({ business }) => {
+  const accent = business.theme.accentHex;
+  const isA3 = business.id === 'a3-kitchen';
+  const isFroth = business.id === 'froth-and-friends';
+
+  const pulseDot = isA3
+    ? 'bg-amber-400'
+    : isFroth
+    ? 'bg-emerald-400'
+    : 'bg-rose-400';
+
   return (
-    <section id="home" className="relative min-h-[75vh] sm:min-h-[90vh] flex items-center justify-center overflow-hidden bg-slate-950">
-      
-      {/* Background High-Res Photography with Dark Overlay */}
+    <section
+      id="home"
+      className="relative min-h-[100svh] flex items-end sm:items-center overflow-hidden bg-slate-950"
+    >
+      {/* ── Cinematic Background ── */}
       <div className="absolute inset-0 z-0">
         <img
           src={business.hero.bgImage}
           alt={business.name}
-          className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"
+          className="w-full h-full object-cover object-center"
+          loading="eager"
         />
-        <div className={`absolute inset-0 bg-gradient-to-t ${business.theme.heroGradient}`}></div>
-        <div className="absolute inset-0 bg-slate-950/60 backdrop-blur-[2px]"></div>
+        {/* multi-layer gradient for depth */}
+        <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-slate-950/20" />
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-950/80 via-transparent to-transparent" />
       </div>
 
-      {/* Decorative Glow */}
-      <div className={`absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] rounded-full blur-3xl opacity-20 pointer-events-none ${business.theme.accentGlow}`}></div>
+      {/* ── Accent glow ── */}
+      <div
+        className="absolute bottom-0 left-0 w-[700px] h-[400px] rounded-full blur-[120px] opacity-20 pointer-events-none"
+        style={{ background: accent }}
+      />
 
-      {/* Main Hero Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 sm:py-28 relative z-10 w-full text-center lg:text-left">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
-          
-          <div className="lg:col-span-8 space-y-6 sm:space-y-8">
-            
-            {/* Top Verified Badge */}
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-xs sm:text-sm font-bold border bg-slate-950/80 backdrop-blur-md shadow-xl border-slate-700/80">
-              <span className={`w-2.5 h-2.5 rounded-full animate-ping ${
-                business.id === 'a3-kitchen' ? 'bg-amber-400' :
-                business.id === 'froth-and-friends' ? 'bg-emerald-400' :
-                'bg-rose-400'
-              }`}></span>
-              <span className="text-slate-200">{business.hero.highlightBadge}</span>
+      {/* ── Content ── */}
+      <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 pt-28 sm:py-24 lg:py-32">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-16 items-center">
+
+          {/* LEFT — text */}
+          <div className="lg:col-span-7 space-y-7">
+
+            {/* Live badge */}
+            <div className="inline-flex items-center gap-2.5 px-4 py-2 rounded-full bg-slate-950/70 border border-slate-700/60 backdrop-blur-xl shadow-xl">
+              <span className={`relative flex h-2.5 w-2.5`}>
+                <span className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75 ${pulseDot}`} />
+                <span className={`relative inline-flex rounded-full h-2.5 w-2.5 ${pulseDot}`} />
+              </span>
+              <span className="text-xs font-bold text-slate-200 tracking-wide">
+                {business.hero.highlightBadge}
+              </span>
             </div>
 
             {/* Headline */}
-            <h1 className="text-3xl sm:text-5xl lg:text-7xl font-black tracking-tight text-white leading-[1.1]">
-              {business.hero.headline}
+            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-black text-white leading-[1.05] tracking-tight">
+              {business.hero.headline
+                .split(' ')
+                .reduce<React.ReactNode[]>((acc, word, i, arr) => {
+                  // last 2 words get accent colour
+                  const isAccent = i >= arr.length - 2;
+                  acc.push(
+                    <span
+                      key={i}
+                      style={isAccent ? { color: accent } : undefined}
+                    >
+                      {word}
+                      {i < arr.length - 1 ? ' ' : ''}
+                    </span>
+                  );
+                  return acc;
+                }, [])}
             </h1>
 
-            {/* Subheadline */}
-            <p className="text-sm sm:text-xl text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed font-normal">
+            {/* Sub */}
+            <p className="text-base sm:text-lg text-slate-300/90 max-w-xl leading-relaxed">
               {business.hero.subheadline}
             </p>
 
-            {/* Key Quick Facts */}
-            <div className="pt-2 flex flex-wrap items-center justify-center lg:justify-start gap-3 sm:gap-4 text-xs sm:text-sm text-slate-300">
-              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-950/80 border border-slate-800 backdrop-blur-md">
-                <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
-                <span className="font-extrabold text-white">{business.rating}</span>
-                <span className="text-slate-400">({business.reviewCount}+ Google Reviews)</span>
+            {/* Stat pills */}
+            <div className="flex flex-wrap gap-2.5">
+              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900/80 border border-slate-800 backdrop-blur-md">
+                <Star className="w-4 h-4 fill-amber-400 text-amber-400 shrink-0" />
+                <span className="text-sm font-extrabold text-white">{business.rating}</span>
+                <span className="text-xs text-slate-400">{business.reviewCount}+ reviews</span>
               </div>
-
-              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-950/80 border border-slate-800 backdrop-blur-md">
-                <MapPin className="w-4 h-4 text-slate-400" />
-                <span>{business.address.area}</span>
+              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900/80 border border-slate-800 backdrop-blur-md">
+                <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
+                <span className="text-xs text-slate-300">{business.address.area}</span>
               </div>
-
-              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-950/80 border border-slate-800 backdrop-blur-md">
-                <Calendar className="w-4 h-4 text-slate-400" />
-                <span>Opened {business.openedDate}</span>
+              <div className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-slate-900/80 border border-slate-800 backdrop-blur-md">
+                <Clock className="w-4 h-4 text-emerald-400 shrink-0" />
+                <span className="text-xs text-slate-300">{business.hours.weekdays}</span>
               </div>
             </div>
 
-            {/* Action Buttons */}
-            <div className="pt-4 flex flex-wrap items-center justify-center lg:justify-start gap-4">
+            {/* CTAs */}
+            <div className="flex flex-wrap gap-3 pt-1">
               <a
                 href="#menu"
-                className={`px-8 py-4 rounded-2xl text-sm font-extrabold flex items-center gap-2 transition-all transform hover:-translate-y-0.5 shadow-2xl ${business.theme.buttonClass}`}
+                className={`group inline-flex items-center gap-2.5 px-7 py-4 rounded-2xl text-sm font-extrabold transition-all duration-200 hover:-translate-y-0.5 shadow-2xl ${business.theme.buttonClass}`}
               >
-                <ShoppingBag className="w-5 h-5" />
-                <span>ORDER NOW</span>
-                <ArrowRight className="w-4 h-4" />
+                <ShoppingBag className="w-4 h-4" />
+                Order Now
+                <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
               </a>
 
               <a
                 href="#menu"
-                className="px-8 py-4 rounded-2xl text-sm font-bold bg-slate-900/90 hover:bg-slate-800/90 border border-slate-700 text-white flex items-center gap-2 backdrop-blur-xl transition-all"
+                className="inline-flex items-center gap-2.5 px-7 py-4 rounded-2xl text-sm font-bold bg-white/10 hover:bg-white/15 border border-white/20 text-white backdrop-blur-xl transition-all duration-200 hover:-translate-y-0.5"
               >
-                <Utensils className="w-4 h-4 text-amber-400" />
-                <span>VIEW MENU</span>
+                <Utensils className="w-4 h-4" />
+                View Menu
               </a>
 
               <a
-                href={business.googleMapsUrl}
+                href={`tel:${business.phone}`}
+                className="inline-flex items-center gap-2.5 px-5 py-4 rounded-2xl text-sm font-bold bg-slate-900/80 hover:bg-slate-800 border border-slate-700 text-slate-300 hover:text-white backdrop-blur-xl transition-all duration-200"
+              >
+                <Phone className="w-4 h-4" />
+                <span className="hidden sm:inline">Call</span>
+              </a>
+
+              <a
+                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(business.address.fullAddress)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-6 py-4 rounded-2xl text-sm font-bold bg-slate-950/80 hover:bg-slate-900 border border-slate-800 text-slate-300 hover:text-white flex items-center gap-2 transition-all"
+                className="inline-flex items-center gap-2.5 px-5 py-4 rounded-2xl text-sm font-bold bg-slate-900/80 hover:bg-slate-800 border border-slate-700 text-slate-300 hover:text-white backdrop-blur-xl transition-all duration-200"
               >
-                <Navigation className="w-4 h-4 text-slate-400" />
-                <span>DIRECTIONS</span>
+                <Navigation className="w-4 h-4" />
+                <span className="hidden sm:inline">Directions</span>
               </a>
             </div>
 
           </div>
 
-          {/* Right Floating Card */}
-          <div className="lg:col-span-4 hidden lg:block">
-            <div className="p-8 rounded-3xl bg-slate-900/90 border border-slate-800/90 shadow-2xl backdrop-blur-2xl space-y-6">
-              
-              <div className="flex items-center justify-between border-b border-slate-800 pb-4">
-                <div className="flex items-center gap-3">
-                  <div className="w-12 h-12 rounded-2xl overflow-hidden border border-slate-700/60 bg-slate-900 flex items-center justify-center shrink-0">
-                    <img src={business.logo} alt={business.name} className="w-full h-full object-contain p-0.5" />
-                  </div>
-                  <div>
-                    <span className="text-xs font-extrabold uppercase tracking-wider text-slate-400">Verified Listing</span>
-                    <h3 className="text-xl font-black text-white mt-0.5">{business.name}</h3>
-                  </div>
+          {/* RIGHT — floating card (desktop only) */}
+          <div className="hidden lg:flex lg:col-span-5 justify-end">
+            <div className="w-full max-w-sm rounded-3xl bg-slate-900/80 border border-slate-700/60 shadow-2xl backdrop-blur-2xl overflow-hidden">
+
+              {/* Card header */}
+              <div
+                className="px-6 py-5 flex items-center gap-4 border-b border-slate-800"
+                style={{ background: `linear-gradient(135deg, ${accent}18, transparent)` }}
+              >
+                <div className="w-14 h-14 rounded-2xl overflow-hidden border-2 shrink-0 bg-slate-900 flex items-center justify-center"
+                  style={{ borderColor: `${accent}40` }}>
+                  <img src={business.logo} alt={business.name} className="w-full h-full object-contain p-1" />
                 </div>
-                <span className={`px-3 py-1 rounded-full text-xs font-bold border ${business.theme.badgeStyle}`}>
-                  {business.category}
-                </span>
+                <div className="min-w-0">
+                  <p className="text-[10px] font-bold uppercase tracking-widest text-slate-400">Now Open</p>
+                  <h3 className="text-lg font-black text-white truncate">{business.name}</h3>
+                  <p className="text-xs text-slate-400 truncate">{business.category}</p>
+                </div>
               </div>
 
-              <div className="space-y-3">
+              {/* Highlights */}
+              <div className="px-5 py-4 space-y-3">
                 {business.highlights.map((item, idx) => (
-                  <div key={idx} className="p-3.5 rounded-2xl bg-slate-950/80 border border-slate-800 flex items-start gap-3">
-                    <div className={`w-8 h-8 rounded-xl flex items-center justify-center shrink-0 ${
-                      business.id === 'a3-kitchen' ? 'bg-amber-500/20 text-amber-400' :
-                      business.id === 'froth-and-friends' ? 'bg-emerald-500/20 text-emerald-400' :
-                      'bg-rose-500/20 text-rose-400'
-                    }`}>
-                      <Sparkles className="w-4 h-4" />
+                  <div key={idx} className="flex items-start gap-3 p-3 rounded-2xl bg-slate-950/60 border border-slate-800/80">
+                    <div
+                      className="w-8 h-8 rounded-xl flex items-center justify-center shrink-0 text-sm font-black"
+                      style={{ background: `${accent}20`, color: accent }}
+                    >
+                      {idx + 1}
                     </div>
                     <div>
-                      <h4 className="text-xs font-bold text-white">{item.title}</h4>
-                      <p className="text-[11px] text-slate-400 mt-0.5">{item.desc}</p>
+                      <p className="text-xs font-bold text-white">{item.title}</p>
+                      <p className="text-[11px] text-slate-400 mt-0.5 leading-relaxed">{item.desc}</p>
                     </div>
                   </div>
                 ))}
               </div>
 
-              <div className="pt-2 flex items-center justify-between text-xs text-slate-400 border-t border-slate-800">
-                <span className="flex items-center gap-1.5 text-emerald-400 font-bold">
-                  <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
-                  {business.hours.status} Today
-                </span>
-                <span>{business.hours.weekdays}</span>
+              {/* Footer */}
+              <div className="px-5 pb-5">
+                <a
+                  href="#menu"
+                  className={`w-full py-3.5 rounded-2xl text-sm font-extrabold flex items-center justify-center gap-2 transition-all hover:-translate-y-0.5 ${business.theme.buttonClass}`}
+                >
+                  <ShoppingBag className="w-4 h-4" />
+                  Browse Full Menu
+                  <ArrowRight className="w-4 h-4" />
+                </a>
               </div>
 
             </div>
@@ -151,6 +199,9 @@ export const Hero: React.FC<HeroProps> = ({ business }) => {
 
         </div>
       </div>
+
+      {/* ── Bottom fade into next section ── */}
+      <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-slate-950 to-transparent pointer-events-none z-10" />
     </section>
   );
 };

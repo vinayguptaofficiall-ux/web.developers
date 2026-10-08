@@ -1,0 +1,1631 @@
+{
+  "business": {
+    "id": "a3-kitchen",
+    "name": "A3 KITCHEN",
+    "googleMapsUrl": "https://maps.app.goo.gl/SeGthvmdybaa6FNL9",
+    "location": "Guru Nanak Colony Road, Auto Nagar, Vijayawada, Andhra Pradesh, India",
+    "phone": "+917013762719",
+    "googleRating": 4.6,
+    "googleReviewCount": 201
+  },
+  "source": {
+    "menu": "A3 Kitchen Family Restaurant accessible menu listing",
+    "verification": "Business identity/location cross-checked against the Google business listing.",
+    "note": "The accessible menu source lists dish names but not reliable item-level prices. Do not invent prices."
+  },
+  "items": [
+    {
+      "category": "Main Course",
+      "name": "Egg Bhurji",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Butter Kadai Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kaju Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Dum Murga Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kasuri Methi Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Andhra Chicken Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Afghani Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Chicken Tikka Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Moghalai Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kasuri Methi Mutton",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Mutton Iguru",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Dal Fry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kadai Veg",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Paneer Butter Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Palak Paneer",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Methi Chaman",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kaju Tomato",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kaju Paneer",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kadai Mushroom",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Kaju Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Plain Palak",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Main Course",
+      "name": "Malai Kofta Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Veg Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Veg Schezwan Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Mushroom Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Kaju Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Paneer Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Veg Hakka Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Avakaya Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Egg Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Egg Schezwan Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Avakaya Egg Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Special Chicken Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Chicken Hakka Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Avakaya Chicken Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Chicken Fried Rice",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Veg Soft Noodles",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Veg Schezwan Noodles",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Egg Schezwan Noodles",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Egg Noodles",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Fried Rice and Noodles",
+      "name": "Chicken Noodles",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Accompaniments",
+      "name": "Roasted Papad",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Accompaniments",
+      "name": "Masala Papad",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Drinks",
+      "name": "Sweet Lassi",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Drinks",
+      "name": "Buttermilk",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Hot and Sour Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Sweet Corn Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Manchow Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Lung Fung Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Lemon Coriander Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Chicken Continental Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Mutton Paya Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Mutton Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Veg Clear Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Veg Hot and Sour Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Veg Sweet Corn Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Veg Manchow Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Cream Tomato Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Continental Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Lemon Coriander Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "Cream of Mushroom Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Soups",
+      "name": "A3 Special Veg Soup",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Malai Boneless Chicken Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Reshmi Kebab",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Tandoori Prawns",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Garlic Chicken Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Fish Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Karvepaku Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Mutton Ghee Roast",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Spicy Chilli Baby Corn",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Spicy Chilli Mushroom",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Spicy Chilli Paneer",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Veg Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Baby Corn Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Mushroom Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Paneer Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Baby Corn 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Mushroom 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Paneer 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Paneer Majestic",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Corn",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Baby Corn Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "American Chaap Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Pepper Mushroom Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Mushroom Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Cheese Mushroom",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Veg Spring Roll",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Veg Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Thread Paneer Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Golden Paneer Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Veg Cheese Balls",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Paneer Tikka Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Malai Paneer Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Achari Paneer Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Hara Bara Kebab",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Tandoori Mushroom",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Egg 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chilli Egg",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Egg Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Egg Spring Roll",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chilli Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Manchurian",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Lollipop",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Wings Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken 555",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Majestic",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Leman Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Fingers Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Pepper Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Butter Garlic Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Kaju Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Dragon Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Honey Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Spring Roll",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Thread Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Guntur Spicy Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Shanghai Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Prawns 65",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chilli Prawns",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Garlic Prawns",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Loose Prawns Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Guntur Spicy Prawns",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Golden Prawns",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Korean Chicken Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Fish Fingers",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Crispy Fish Dry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Apollo Fish",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chilli Fish",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Guntur Spicy Fish",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Mutton Keema Balls",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Chicken Keema Balls",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Tandoori Chicken [Half, 4 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Tandoori Chicken [Full, 8 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Afgani Boneless Chicken Tikka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Starters",
+      "name": "Thai Chilli Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Dal Fry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Dal Tadka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Plain Palak",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Veg Kadhai",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Veg Kolhapuri",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Veg Keema Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Paneer Tikka Masala [4 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Shahi Paneer Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Kaju Paneer Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Kaju Tomato Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Capsicum and Kaju Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Mushroom Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Kadhai Mushroom",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Main Course",
+      "name": "Kaju Mushroom Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Egg Items",
+      "name": "Egg Bhurji",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Egg Items",
+      "name": "Egg Kheema Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Egg Items",
+      "name": "Anda Masala Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Egg Items",
+      "name": "Omelette",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Egg Items",
+      "name": "Boiled Egg [3 Eggs]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Butter Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Kadai Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Afgani Chicken Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mughlai Chicken Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Chicken Kolhapuri",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Methi Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Andhra Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Gongura Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Special Chicken Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Boneless Chicken",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Chicken Maharani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Chicken Chettinad",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Chicken Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Andhra Chicken Fry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Maharani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Mughlai",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Dum Murgh Masala",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Do Pyaaza",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Fry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Keema Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Mutton Rogan Josh",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Curry",
+      "name": "Hyderabad Mutton Curry",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Pulka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Butter pulka",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Butter Naan",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Plain Naan",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Garlic Naan",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Chilli Naan",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Butter Kulcha",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Stuffed Kulcha",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Aloo Paratha",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Laccha Paratha",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "1 Chapati",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "Single Egg Parotta",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "1 Tandoori Roti",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Bread Basket",
+      "name": "1 Butter Roti",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Family Biryani Pack",
+      "name": "Chicken Dum Biryani [Family Pack]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Family Biryani Pack",
+      "name": "Chicken Fry Biryani [Family Pack]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Family Biryani Pack",
+      "name": "Mutton Dum Biryani [Family Pack]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Family Biryani Pack",
+      "name": "Mutton Fry Biryani [Family Pack]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Veg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Kaju Paneer Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Kaju Mushroom Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Paneer 65 Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Special Paneer Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Special Mushroom Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Special Veg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Veg Ulavacharu Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Avakai Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Veg Biryani",
+      "name": "Mix Veg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Dum Biryani [Mini]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Fry Biryani [Mini]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Egg Biryani [3 Eggs]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Ulavacharu Egg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Kaju Egg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Dum Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Fry Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Special Chicken Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Tikka Biryani [4 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Lollipop Biryani [3 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Wings Biryani [3 Pieces]",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Mughlai Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Afghani Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Joint Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Tangadi Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Ulavacharu Chicken Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Gongura Chicken Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Avakai Chicken Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Chicken Roast Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Mixed Non Veg Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Prawns Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    },
+    {
+      "category": "Non Veg Biryani",
+      "name": "Mutton Dum Biryani",
+      "price": null,
+      "description": null,
+      "image": null
+    }
+  ],
+  "restaurant": "A3 KITCHEN",
+  "slug": "a3-kitchen",
+  "currency": "INR"
+}

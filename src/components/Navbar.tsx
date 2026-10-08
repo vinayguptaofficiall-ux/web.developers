@@ -119,7 +119,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentBusiness }) => {
               <Phone className="w-4 h-4" />
               <span>Call {currentBusiness.name}</span>
             </a>
-            <a href={currentBusiness.googleMapsUrl} target="_blank" rel="noopener noreferrer"
+            <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(currentBusiness.address.fullAddress)}`} target="_blank" rel="noopener noreferrer"
               className="w-full py-3 rounded-xl text-center text-xs font-bold bg-slate-900 border border-slate-800 text-slate-200 flex items-center justify-center gap-2">
               <MapPin className="w-4 h-4 text-amber-400" />
               <span>Get Directions</span>

@@ -1,0 +1,4089 @@
+{
+  "version": "1.0",
+  "currency": "INR",
+  "restaurants": [
+    {
+      "business": {
+        "id": "a3-kitchen",
+        "name": "A3 KITCHEN",
+        "googleMapsUrl": "https://maps.app.goo.gl/SeGthvmdybaa6FNL9",
+        "location": "Guru Nanak Colony Road, Auto Nagar, Vijayawada, Andhra Pradesh, India",
+        "phone": "+917013762719",
+        "googleRating": 4.6,
+        "googleReviewCount": 201
+      },
+      "source": {
+        "menu": "A3 Kitchen Family Restaurant accessible menu listing",
+        "verification": "Business identity/location cross-checked against the Google business listing.",
+        "note": "The accessible menu source lists dish names but not reliable item-level prices. Do not invent prices."
+      },
+      "items": [
+        {
+          "category": "Main Course",
+          "name": "Egg Bhurji",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Butter Kadai Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kaju Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Dum Murga Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kasuri Methi Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Andhra Chicken Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Afghani Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Chicken Tikka Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Moghalai Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kasuri Methi Mutton",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Mutton Iguru",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Dal Fry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kadai Veg",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Paneer Butter Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Palak Paneer",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Methi Chaman",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kaju Tomato",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kaju Paneer",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kadai Mushroom",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Kaju Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Plain Palak",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Main Course",
+          "name": "Malai Kofta Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Veg Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Veg Schezwan Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Mushroom Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Kaju Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Paneer Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Veg Hakka Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Avakaya Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Egg Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Egg Schezwan Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Avakaya Egg Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Special Chicken Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Chicken Hakka Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Avakaya Chicken Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Chicken Fried Rice",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Veg Soft Noodles",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Veg Schezwan Noodles",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Egg Schezwan Noodles",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Egg Noodles",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Fried Rice and Noodles",
+          "name": "Chicken Noodles",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Accompaniments",
+          "name": "Roasted Papad",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Accompaniments",
+          "name": "Masala Papad",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Drinks",
+          "name": "Sweet Lassi",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Drinks",
+          "name": "Buttermilk",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Hot and Sour Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Sweet Corn Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Manchow Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Lung Fung Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Lemon Coriander Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Chicken Continental Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Mutton Paya Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Mutton Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Veg Clear Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Veg Hot and Sour Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Veg Sweet Corn Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Veg Manchow Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Cream Tomato Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Continental Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Lemon Coriander Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "Cream of Mushroom Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Soups",
+          "name": "A3 Special Veg Soup",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Malai Boneless Chicken Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Reshmi Kebab",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Tandoori Prawns",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Garlic Chicken Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Fish Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Karvepaku Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Mutton Ghee Roast",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Spicy Chilli Baby Corn",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Spicy Chilli Mushroom",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Spicy Chilli Paneer",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Veg Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Baby Corn Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Mushroom Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Paneer Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Baby Corn 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Mushroom 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Paneer 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Paneer Majestic",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Corn",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Baby Corn Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "American Chaap Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Pepper Mushroom Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Mushroom Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Cheese Mushroom",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Veg Spring Roll",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Veg Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Thread Paneer Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Golden Paneer Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Veg Cheese Balls",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Paneer Tikka Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Malai Paneer Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Achari Paneer Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Hara Bara Kebab",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Tandoori Mushroom",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Egg 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chilli Egg",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Egg Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Egg Spring Roll",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chilli Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Manchurian",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Lollipop",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Wings Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken 555",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Majestic",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Leman Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Fingers Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Pepper Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Butter Garlic Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Kaju Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Dragon Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Honey Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Spring Roll",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Thread Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Guntur Spicy Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Shanghai Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Prawns 65",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chilli Prawns",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Garlic Prawns",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Loose Prawns Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Guntur Spicy Prawns",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Golden Prawns",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Korean Chicken Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Fish Fingers",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Crispy Fish Dry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Apollo Fish",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chilli Fish",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Guntur Spicy Fish",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Mutton Keema Balls",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Chicken Keema Balls",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Tandoori Chicken [Half, 4 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Tandoori Chicken [Full, 8 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Afgani Boneless Chicken Tikka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Starters",
+          "name": "Thai Chilli Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Dal Fry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Dal Tadka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Plain Palak",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Veg Kadhai",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Veg Kolhapuri",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Veg Keema Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Paneer Tikka Masala [4 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Shahi Paneer Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Kaju Paneer Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Kaju Tomato Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Capsicum and Kaju Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Mushroom Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Kadhai Mushroom",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Main Course",
+          "name": "Kaju Mushroom Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Egg Items",
+          "name": "Egg Bhurji",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Egg Items",
+          "name": "Egg Kheema Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Egg Items",
+          "name": "Anda Masala Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Egg Items",
+          "name": "Omelette",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Egg Items",
+          "name": "Boiled Egg [3 Eggs]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Butter Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Kadai Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Afgani Chicken Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mughlai Chicken Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Chicken Kolhapuri",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Methi Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Andhra Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Gongura Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Special Chicken Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Boneless Chicken",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Chicken Maharani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Chicken Chettinad",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Chicken Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Andhra Chicken Fry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Maharani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Mughlai",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Dum Murgh Masala",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Do Pyaaza",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Fry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Keema Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Mutton Rogan Josh",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Curry",
+          "name": "Hyderabad Mutton Curry",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Pulka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Butter pulka",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Butter Naan",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Plain Naan",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Garlic Naan",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Chilli Naan",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Butter Kulcha",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Stuffed Kulcha",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Aloo Paratha",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Laccha Paratha",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "1 Chapati",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "Single Egg Parotta",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "1 Tandoori Roti",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Bread Basket",
+          "name": "1 Butter Roti",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Family Biryani Pack",
+          "name": "Chicken Dum Biryani [Family Pack]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Family Biryani Pack",
+          "name": "Chicken Fry Biryani [Family Pack]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Family Biryani Pack",
+          "name": "Mutton Dum Biryani [Family Pack]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Family Biryani Pack",
+          "name": "Mutton Fry Biryani [Family Pack]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Veg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Kaju Paneer Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Kaju Mushroom Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Paneer 65 Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Special Paneer Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Special Mushroom Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Special Veg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Veg Ulavacharu Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Avakai Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Veg Biryani",
+          "name": "Mix Veg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Dum Biryani [Mini]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Fry Biryani [Mini]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Egg Biryani [3 Eggs]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Ulavacharu Egg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Kaju Egg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Dum Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Fry Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Special Chicken Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Tikka Biryani [4 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Lollipop Biryani [3 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Wings Biryani [3 Pieces]",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Mughlai Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Afghani Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Joint Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Tangadi Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Ulavacharu Chicken Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Gongura Chicken Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Avakai Chicken Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Chicken Roast Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Mixed Non Veg Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Prawns Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        },
+        {
+          "category": "Non Veg Biryani",
+          "name": "Mutton Dum Biryani",
+          "price": null,
+          "description": null,
+          "image": null
+        }
+      ],
+      "restaurant": "A3 KITCHEN",
+      "slug": "a3-kitchen",
+      "currency": "INR"
+    },
+    {
+      "restaurant": "Froth and friends Cafè",
+      "slug": "froth-and-friends",
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Green Salad",
+          "price": 142,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Cream Of Mushroom Soup",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Paneer Picking Soup",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Veg Hot And Sour Soup",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Veg Manchow Soup",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Chicken Continental Cornny Soup",
+          "price": 403,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Hot And Sour Chicken Soup",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Chicken Manchow Soup",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "soups-and-salads",
+          "labels": []
+        },
+        {
+          "name": "Hot And Spicy Wings",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Black Pepper Wings",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Crispy Wings",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Barbeque Wings",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Chicken Satay",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Italian Chicken",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Crispy Golden Chicken",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Korean Chicken",
+          "price": 493,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Hong Kong Chicken",
+          "price": 454,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Thai Chicken",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Mexican Chicken",
+          "price": 480,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Burnt Garlic Basil Fish",
+          "price": 506,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Roasted Fish Kebab",
+          "price": 493,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Pesto Grilled Fish",
+          "price": 506,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Thai Prawns",
+          "price": 545,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Spicy Cracker Prawns",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Bangaru Royyala",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Cheeseey Stuffed Mushroom",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Italian Paneer",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Hong Kong Paneer",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Mushroom Keema Balls",
+          "price": 376,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Mexican Paneer",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Singapuri Paneer",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Thai Paneer",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "starters",
+          "labels": []
+        },
+        {
+          "name": "Jalapeno And Onion Pizza [10 Inches]",
+          "price": 584,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Make Your Own Pizza [10 Inches]",
+          "price": 715,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Paneer Barbeque Pizza [10 Inches]",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Paneer Tikka Pizza [10 Inches]",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Fungi Pizza [10 Inches]",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Veggie Burst Pizza [10 Inches]",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Classic Italian Pizza [10 Inches]",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Iron Pie Pizza [10 Inches]",
+          "price": 636,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Jalapeno Chicken Pizza [10 Inches]",
+          "price": 636,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Chicken 65 Pizza [10 Inches]",
+          "price": 610,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Chicken Tikka Pizza [10 Inches]",
+          "price": 610,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Barbeque Sausage Pizza [10 Inches]",
+          "price": 649,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Jamaican Jerk Veg Pizza [10 Inches]",
+          "price": 610,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Jamaican Jerk Non Veg Pizza [10 Inches]",
+          "price": 636,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "The OG Mac N Cheese",
+          "price": 454,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Veg Pesto Spaghetti",
+          "price": 506,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Pinkyy Veg Pasta",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Pesto Chicken Pasta",
+          "price": 519,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Alfredo Chicken Pasta",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Arrabita Chicken Pasta",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Crispy Chicken Mac N Cheese",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "pizza-and-pasta",
+          "labels": []
+        },
+        {
+          "name": "Veggie Burger",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Crispy Paneer Burger",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Paneer Tikka Burger",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Barbeque Chicken Burger",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Chicken 65 Burger",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Chicken Tikka Burger",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Spinach Corn Cheese Sandwich",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Paneer Popper Sandwich",
+          "price": 324,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Grill Cheese Sandwich",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Pesto Chicken Sandwich",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Chicken Cheese Sandwich",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Chicken Club Sandwich",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Chicken Tikka Sandwich",
+          "price": 376,
+          "description": "",
+          "image": "",
+          "category": "burgers-and-sandwiches",
+          "labels": []
+        },
+        {
+          "name": "Salted French Fries",
+          "price": 194,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Peri Peri Fries",
+          "price": 207,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Cheesey Loaded Fries",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Veg Loaded Nachos",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Veg Garlic Bread",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Paneer Poppers",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Jalapeno Pocket",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Baby Corn Kurkure",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Chicken Poppers",
+          "price": 376,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Chicken Keema Loaded Fries",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Cheese Chicken Garlic Bread",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Fish N Chips",
+          "price": 493,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Mushroom Duplex",
+          "price": 376,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Cheese Cigar Roll",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Cuban Cigar Roll",
+          "price": 389,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Dragon Egg",
+          "price": 259,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Chicken Cheesy Cigar Roll",
+          "price": 428,
+          "description": "",
+          "image": "",
+          "category": "snacks",
+          "labels": []
+        },
+        {
+          "name": "Crispy Potato Wrap",
+          "price": 324,
+          "description": "",
+          "image": "",
+          "category": "wraps",
+          "labels": []
+        },
+        {
+          "name": "Paneer Loaded Wrap",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "wraps",
+          "labels": []
+        },
+        {
+          "name": "Pesto Chicken Wrap",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "wraps",
+          "labels": []
+        },
+        {
+          "name": "Barbeque Chicken Wrap",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "wraps",
+          "labels": []
+        },
+        {
+          "name": "Crispy Chicken Cheese Wrap",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "wraps",
+          "labels": []
+        },
+        {
+          "name": "Peach Espresso Martini",
+          "price": 376,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Passion Fruit Espresso Martini",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Cranberry Espresso Martini",
+          "price": 363,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Vietnamese Iced Coffee",
+          "price": 467,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Crunchy Chocolate Thickshake",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Coconut Thickshake",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Jack N Jill Thickshake",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Berry Thickshake",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Oreo Thickshake",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Peanut Butter Almond Thickshake",
+          "price": 324,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Mocha Thickshake",
+          "price": 350,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Nutella Brownie Thickshake",
+          "price": 402,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "KitKat Thickshake",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "KitKat Oreo Thickshake",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Chocolate KitKat Thickshake",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Crunchyyyy Biscoff Thickshake",
+          "price": 324,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Tropical Thickshake",
+          "price": 311,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "The Virgins Mojito",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "The Breeze Mojito",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "The Watermelon Mint Mojito",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Blueberry Mojito",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Raspberry Mojito",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "The Lovers Mojito",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "The Gingyyyy Lemon Mojito",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Blue Heaven Mojito",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Cranberry Mojito",
+          "price": 259,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Lovers Mojito",
+          "price": 181,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "The P And M Mocktail",
+          "price": 324,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Salt Limoncello",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Sweet Limoncello",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Berry Cocktail",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Pina Colado",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": [
+            "Non Alcoholic"
+          ]
+        },
+        {
+          "name": "Body Chiller Soda",
+          "price": 207,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Masala Nimbu Soda",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Water Mellow Juice",
+          "price": 59,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Classic Iced Tea",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Peach Iced Tea",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Passion Fruit Iced Tea",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Honey And Lemon Iced Tea",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Green Tea",
+          "price": 142,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Peach Apricot Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Honey Chamomile Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Assam Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Lemon Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Ginger Honey Lemon Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Strawberry Hibiscus Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Darjeeling Tea",
+          "price": 155,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Iced Espresso",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Cold Brew",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Cold Coffee",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Chocolate Frappe",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Caramel Frappe",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Salted Caramel Frappe",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Vanilla Frappe",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Nutella Frappe",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "drinks",
+          "labels": []
+        },
+        {
+          "name": "Espresso",
+          "price": 116,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Doppio",
+          "price": 142,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Cortado",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Long Black Coffee",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Americano",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Cappuccino",
+          "price": 194,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Nutella Cappuccino",
+          "price": 233,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Hazelnut Cappuccino",
+          "price": 233,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Caramel Cappuccino",
+          "price": 233,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Salted Caramel Cappuccino",
+          "price": 233,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Vanilla Cappuccino",
+          "price": 233,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Latte",
+          "price": 181,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Hazelnut Latte",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Caramel Latte",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Salted Caramel Latte",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Nutella Latte",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Vanilla Latte",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Mocha",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Flat White [Regular]",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Macchiato",
+          "price": 168,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Hot Chocolate",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Affogato",
+          "price": 246,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Biscoff Cappuccino",
+          "price": 272,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Biscoff Latte",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Nutella Affogato",
+          "price": 298,
+          "description": "",
+          "image": "",
+          "category": "coffee",
+          "labels": []
+        },
+        {
+          "name": "Thai Green Rice Bowl [1000 Ml]",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Thai Red Veg Rice Bowl",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Italian Veg Rice Bowl",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Chicken Thai Green Rice Bowl",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Chicken Thai Red Rice Bowl",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Italian Chicken Rice Bowl",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Chicken Mangolian Rice Bowl",
+          "price": 597,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Italian Prawns Rice Bowl",
+          "price": 623,
+          "description": "",
+          "image": "",
+          "category": "bowls",
+          "labels": []
+        },
+        {
+          "name": "Thai Green Rice Bowl [1000 Ml]",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Thai Red Veg Rice Bowl",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Italian Veg Rice Bowl",
+          "price": 532,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Chicken Thai Green Rice Bowl",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Chicken Thai Red Rice Bowl",
+          "price": 571,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Italian Chicken Rice Bowl",
+          "price": 558,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Chicken Mangolian Rice Bowl",
+          "price": 597,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        },
+        {
+          "name": "Italian Prawns Rice Bowl",
+          "price": 623,
+          "description": "",
+          "image": "",
+          "category": "noodles",
+          "labels": []
+        }
+      ]
+    },
+    {
+      "restaurant": "Arise Café",
+      "slug": "arise-cafe",
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 135,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Double Espresso",
+          "price": 150,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Americano",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Cafe Latte",
+          "price": 180,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Flat White",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "coffee"
+        },
+        {
+          "name": "Loaded Fries",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Chicken Charcoal Momo",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Peri-Peri Chicken Bao",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Jalapeno Cheese Pops",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Bbq Chicken Wings",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Nachos",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Peri-Peri Fries",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Buffalo Chicken Wings",
+          "price": 335,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Gourmet Veg Momo",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Spicy Veg Bao",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Veg Bao",
+          "price": 210,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Loaded Nachos",
+          "price": 335,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Veg Fingers",
+          "price": 180,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Veg Charcoal Momo",
+          "price": 245,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Crispy Chicken Wings",
+          "price": 315,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Paneer Spring Rolls",
+          "price": 180,
+          "description": "Paneer spring rolls.",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Lemon Zest Chicken Momo",
+          "price": 260,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Fries",
+          "price": 165,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "appetizers"
+        },
+        {
+          "name": "Spicy Paneer",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Chicken Tikka Pizza",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Chicken Exotica Pizza",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Chicken Burst Pizza",
+          "price": 340,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Spicy Mexican Chicken Pizza",
+          "price": 310,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Smoked Bbq Chicken Pizza",
+          "price": 255,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Paneer Supreme",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Chicken Delight",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Peri-Peri Paneer Premium",
+          "price": 310,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Paneer Tikka Pizza",
+          "price": 255,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Farmhouse Pizza",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Corn & Corn",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Peri-Peri Chicken",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "pizza"
+        },
+        {
+          "name": "Mint Blast",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Lemon Iced Tea",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Spicy Lemonade Cooler",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Guava Lemon Cooler",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Banaras Twist",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Lgg Mojito",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Orange Malt",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Indian Margarita",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Summer Delight",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Green Granny Mojito",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Shirley Temple",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Peach Mojito",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Blueberry Cooler",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Spicy Mango Cooler",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Teenage Beer",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Blue Margarita",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Bubblegum Temptation",
+          "price": 190,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Pina Colada",
+          "price": 230,
+          "description": "",
+          "image": "",
+          "category": "mocktails"
+        },
+        {
+          "name": "Prawns Burrito",
+          "price": 240,
+          "description": "",
+          "image": "",
+          "category": "burrito"
+        },
+        {
+          "name": "Veg Burrito",
+          "price": 195,
+          "description": "",
+          "image": "",
+          "category": "burrito"
+        },
+        {
+          "name": "Crispy Chicken Sandwich",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Corn & Cheese Sandwich",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Crispy Prawns Sandwich",
+          "price": 210,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Club Sandwich",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Spicy Paneer Sandwich",
+          "price": 185,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Veggie Sandwich",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "sandwich"
+        },
+        {
+          "name": "Vanilla Strawberry Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Choco Chip Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Vanilla Kitkat Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Brownie Choco Chip Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Caramel Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Vanilla Oreo Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Biscoff Milkshake Float",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Vanilla Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Butterscotch Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Nutella Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Kitkat Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Classic Strawberry Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Blueberry Cheese Cake Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Oreo Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "B 52 With Irish Cream",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Cookie Crumble Shake",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "shakes"
+        },
+        {
+          "name": "Tiramisu Iced Coffee",
+          "price": 380,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Vanilla Cream Coffee",
+          "price": 360,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Iced Cappuccino",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Iced Spanish Latte",
+          "price": 240,
+          "description": "",
+          "image": "",
+          "category": "cold brew"
+        },
+        {
+          "name": "Tandoori Chicken Burger",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 247,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Paneer Patty Burger",
+          "price": 175,
+          "description": "Paneer patty burger.",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Veg Patty Burger",
+          "price": 150,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Crispy Prawns Burger",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Double Down Chicken Burger",
+          "price": 309,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Chicken Patty Burger",
+          "price": 185,
+          "description": "",
+          "image": "",
+          "category": "burgers"
+        },
+        {
+          "name": "Crispy Prawns Wrap",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Mac & Cheese Wrap",
+          "price": 230,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Veg Wrap",
+          "price": 175,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Spicy Paneer Wrap",
+          "price": 220,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Loaded Chicken Mac & Cheese Wrap",
+          "price": 255,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Crispy Chicken Wrap",
+          "price": 200,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Crunchy Chicken Wrap",
+          "price": 210,
+          "description": "Crunchy chicken wrap.",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Egg Paratha Roll",
+          "price": 230,
+          "description": "",
+          "image": "",
+          "category": "wrap"
+        },
+        {
+          "name": "Chicken Tikka Rice Bowl",
+          "price": 360,
+          "description": "",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Thai Curry Rice Bowl (Jasmine Rice)",
+          "price": 350,
+          "description": "Thai curry rice bowl with jasmine rice.",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Mexican Rice Bowl Veg",
+          "price": 250,
+          "description": "Mexican rice bowl with vegetables.",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Mexican Rice Bowl",
+          "price": 340,
+          "description": "Mexican rice bowl.",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Shawarma Rice Bowl",
+          "price": 340,
+          "description": "",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Paneer Tikka Rice Bowl",
+          "price": 260,
+          "description": "",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Kung Pao Rice Bowl (Jasmine Rice)",
+          "price": 355,
+          "description": "",
+          "image": "",
+          "category": "rice bowl"
+        },
+        {
+          "name": "Ginger Tea",
+          "price": 130,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Green Tea",
+          "price": 125,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Lemon Tea",
+          "price": 125,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Masala Tea",
+          "price": 130,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Black Tea With Milk",
+          "price": 115,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Black Tea",
+          "price": 100,
+          "description": "",
+          "image": "",
+          "category": "tea"
+        },
+        {
+          "name": "Hazelnut Frappe",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "frappe"
+        },
+        {
+          "name": "Cafe Frappe",
+          "price": 270,
+          "description": "",
+          "image": "",
+          "category": "frappe"
+        },
+        {
+          "name": "Penne - Tomato Sauce",
+          "price": 245,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Penne - Pesto Cream Sauce",
+          "price": 275,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Penne - Alfredo Sauce",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Penne - Pesto Sauce",
+          "price": 255,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Spaghetti - Pesto Sauce",
+          "price": 250,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Spaghetti - Alfredo Sauce",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Spaghetti - Lemon & Prawns Sauce",
+          "price": 340,
+          "description": "Spaghetti with lemon and prawns sauce.",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Chicken Lasagna",
+          "price": 440,
+          "description": "Chicken lasagna.",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Spaghetti - Tomato Sauce",
+          "price": 260,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Mac & Cheese Pasta",
+          "price": 260,
+          "description": "",
+          "image": "",
+          "category": "pasta"
+        },
+        {
+          "name": "Tortilla Bread - Veg Tacos",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "tacos"
+        },
+        {
+          "name": "Prawns",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "tacos"
+        },
+        {
+          "name": "Chicken",
+          "price": 225,
+          "description": "",
+          "image": "",
+          "category": "tacos"
+        },
+        {
+          "name": "Blueberry Flame Shawarma",
+          "price": 300,
+          "description": "",
+          "image": "",
+          "category": "shawarma"
+        },
+        {
+          "name": "Classic Chicken Shawarma",
+          "price": 250,
+          "description": "",
+          "image": "",
+          "category": "shawarma"
+        },
+        {
+          "name": "Churros",
+          "price": 285,
+          "description": "",
+          "image": "",
+          "category": "desserts"
+        },
+        {
+          "name": "Arabian Konafah - Chocolate",
+          "price": 390,
+          "description": "",
+          "image": "",
+          "category": "desserts"
+        }
+      ]
+    }
+  ]
+}

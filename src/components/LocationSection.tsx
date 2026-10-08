@@ -94,7 +94,7 @@ export const LocationSection: React.FC<LocationSectionProps> = ({ business }) =>
 
             {/* Direct Directions Button */}
             <a
-              href={business.googleMapsUrl}
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(business.address.fullAddress)}`}
               target="_blank"
               rel="noopener noreferrer"
               className={`w-full py-4 rounded-2xl text-xs font-extrabold ${business.theme.buttonClass} flex items-center justify-center gap-2 shadow-xl transition-all`}
@@ -129,15 +129,24 @@ export const LocationSection: React.FC<LocationSectionProps> = ({ business }) =>
                 {business.address.fullAddress}
               </p>
 
-              <div className="pt-2 flex justify-center">
+              <div className="pt-2 flex justify-center gap-3 flex-wrap">
                 <a
-                  href={business.googleMapsUrl}
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(business.address.fullAddress)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-6 py-3.5 rounded-2xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-xs flex items-center gap-2 transition-all shadow-lg"
                 >
                   <MapPin className="w-4 h-4" />
-                  <span>Launch Google Maps App</span>
+                  <span>Open in Google Maps</span>
+                </a>
+                <a
+                  href={business.googleMapsUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3.5 rounded-2xl bg-slate-800 hover:bg-slate-700 border border-slate-700 text-white font-bold text-xs flex items-center gap-2 transition-all"
+                >
+                  <ExternalLink className="w-4 h-4" />
+                  <span>View on Maps</span>
                 </a>
               </div>
             </div>

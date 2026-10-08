@@ -95,7 +95,7 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children
   };
 
   const cartTotalCount = cart.reduce((sum, ci) => sum + ci.quantity, 0);
-  const cartSubtotal = cart.reduce((sum, ci) => sum + ci.item.price * ci.quantity, 0);
+  const cartSubtotal = cart.reduce((sum, ci) => sum + ((ci.item.price ?? 0) * ci.quantity), 0);
 
   const getWhatsAppOrderUrl = (details: CustomerDetails, business: Business) => {
     const deliveryFee = details.orderType === 'delivery' ? 40 : 0;
@@ -104,7 +104,7 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const itemsText = cart
       .map(
         (ci) =>
-          `• ${ci.quantity}x ${ci.item.name} (₹${ci.item.price * ci.quantity})`
+          `• ${ci.quantity}x ${ci.item.name} (₹${(ci.item.price ?? 0) * ci.quantity})`
       )
       .join('\n');
 

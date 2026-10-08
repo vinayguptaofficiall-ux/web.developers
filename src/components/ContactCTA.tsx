@@ -36,7 +36,7 @@ export const ContactCTA: React.FC<ContactCTAProps> = ({ business }) => {
             </a>
 
             <a
-              href={business.googleMapsUrl}
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(business.address.fullAddress)}`}
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 rounded-2xl text-sm font-bold bg-slate-900 hover:bg-slate-800 border border-slate-700 text-white flex items-center gap-2 transition-all"
