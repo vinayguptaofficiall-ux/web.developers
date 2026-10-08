@@ -33,11 +33,19 @@ const IMAGE_MAP: [string, string][] = [
   ['tikka',       'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400&q=75'],
   ['lollipop',    'https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400&q=75'],
   ['wings',       'https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=400&q=75'],
+  ['satay',       'https://images.unsplash.com/photo-1529563021893-cc83c992d75d?w=400&q=75'],
+  ['korean',      'https://images.unsplash.com/photo-1590301157890-4810ed352733?w=400&q=75'],
+  ['hong kong',   'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=400&q=75'],
+  ['mexican',     'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&q=75'],
+  ['italian chicken','https://images.unsplash.com/photo-1598103442097-8b74394b95c3?w=400&q=75'],
   ['chicken',     'https://images.unsplash.com/photo-1598103442097-8b74394b95c3?w=400&q=75'],
   // ── Mutton / Lamb ──
   ['mutton',      'https://images.unsplash.com/photo-1574484284002-952d92a03a05?w=400&q=75'],
   // ── Prawns / Seafood ──
   ['prawn',       'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&q=75'],
+  ['fish n chips','https://images.unsplash.com/photo-1579208575657-c595a05383b7?w=400&q=75'],
+  ['fish kebab',  'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&q=75'],
+  ['grilled fish','https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&q=75'],
   ['fish',        'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&q=75'],
   // ── Paneer ──
   ['paneer',      'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=400&q=75'],
@@ -60,6 +68,10 @@ const IMAGE_MAP: [string, string][] = [
   // ── Shawarma ──
   ['shawarma',    'https://images.unsplash.com/photo-1561651823-34feb02250e4?w=400&q=75'],
   // ── Fries / Snacks ──
+  ['cigar roll',  'https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=400&q=75'],
+  ['dragon egg',  'https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400&q=75'],
+  ['loaded fries','https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=75'],
+  ['peri peri',   'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=75'],
   ['fries',       'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=400&q=75'],
   ['nachos',      'https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=400&q=75'],
   ['garlic bread','https://images.unsplash.com/photo-1619535860434-cf9b902a0e97?w=400&q=75'],
@@ -72,6 +84,10 @@ const IMAGE_MAP: [string, string][] = [
   // ── Salad ──
   ['salad',       'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=75'],
   // ── Rice / Bowls ──
+  ['thai green',  'https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&q=75'],
+  ['thai red',    'https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=400&q=75'],
+  ['mongolian',   'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=75'],
+  ['mangolian',   'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=75'],
   ['rice bowl',   'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=75'],
   ['fried rice',  'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=75'],
   ['rice',        'https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=400&q=75'],
@@ -92,11 +108,17 @@ const IMAGE_MAP: [string, string][] = [
   ['green tea',   'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=75'],
   ['tea',         'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=75'],
   // ── Shakes / Drinks ──
-  ['shake',       'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&q=75'],
   ['thickshake',  'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&q=75'],
-  ['mojito',      'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=75'],
-  ['mocktail',    'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=400&q=75'],
+  ['biscoff',     'https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?w=400&q=75'],
+  ['nutella',     'https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?w=400&q=75'],
+  ['oreo',        'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&q=75'],
+  ['kitkat',      'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&q=75'],
+  ['shake',       'https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&q=75'],
+  ['espresso martini','https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=400&q=75'],
+  ['vietnamese',  'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&q=75'],
+  ['limoncello',  'https://images.unsplash.com/photo-1554866585-cd94860890b7?w=400&q=75'],
   ['pina colada', 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=400&q=75'],
+  ['mojito',      'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&q=75'],
   ['lassi',       'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400&q=75'],
   ['buttermilk',  'https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=400&q=75'],
   ['juice',       'https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400&q=75'],
