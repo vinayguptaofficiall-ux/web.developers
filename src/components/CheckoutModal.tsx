@@ -197,7 +197,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({ business }) => {
                 {placedOrderData.items.map(({ item, quantity }) => (
                   <div key={item.id} className="flex justify-between">
                     <span className="truncate">{quantity}x {item.name}</span>
-                    <span className="font-bold text-white">₹{item.price * quantity}</span>
+                    <span className="font-bold text-white">₹{(item.price ?? 0) * quantity}</span>
                   </div>
                 ))}
               </div>
@@ -368,7 +368,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({ business }) => {
                   {cart.map(({ item, quantity }) => (
                     <div key={item.id} className="flex justify-between">
                       <span className="truncate">{quantity}x {item.name}</span>
-                      <span className="font-semibold shrink-0">₹{item.price * quantity}</span>
+                      <span className="font-semibold shrink-0">₹{(item.price ?? 0) * quantity}</span>
                     </div>
                   ))}
                 </div>

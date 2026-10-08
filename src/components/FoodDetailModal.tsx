@@ -85,23 +85,7 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
             {selectedFoodItem.description || 'No description available.'}
           </p>
 
-          {selectedFoodItem.ingredients && selectedFoodItem.ingredients.length > 0 && (
-            <div className="pt-2">
-              <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">
-                Key Ingredients
-              </h4>
-              <div className="flex flex-wrap gap-1.5">
-                {selectedFoodItem.ingredients.map((ing, idx) => (
-                  <span
-                    key={idx}
-                    className="px-2.5 py-1 rounded-lg bg-slate-950 text-xs font-medium text-slate-300 border border-slate-800"
-                  >
-                    {ing}
-                  </span>
-                ))}
-              </div>
-            </div>
-          )}
+
         </div>
 
         {/* Bottom Actions Footer */}
