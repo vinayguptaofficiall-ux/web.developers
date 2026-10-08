@@ -52,7 +52,7 @@ export const BusinessSwitcher: React.FC<BusinessSwitcherProps> = ({ currentBusin
           {getBusinessIcon(currentBusiness)}
         </div>
 
-        <div className="flex-1 min-w-[130px] max-w-[190px]">
+        <div className="hidden sm:block flex-1 min-w-[130px] max-w-[190px]">
           <div className="flex items-center gap-1.5">
             <span className="text-[10px] font-bold uppercase tracking-wider text-slate-400">Switch Spot</span>
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -61,6 +61,8 @@ export const BusinessSwitcher: React.FC<BusinessSwitcherProps> = ({ currentBusin
             {currentBusiness.name}
           </p>
         </div>
+        {/* Mobile: just the pulse dot */}
+        <span className="sm:hidden w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
 
         <ChevronDown className={`w-4 h-4 text-slate-400 transition-transform duration-200 ${isOpen ? 'rotate-180 text-white' : 'group-hover:text-slate-300'}`} />
       </button>

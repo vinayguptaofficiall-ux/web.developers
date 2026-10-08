@@ -73,7 +73,7 @@ export const BusinessPage: React.FC<BusinessPageProps> = ({ businessSlug }) => {
 
       <Navbar currentBusiness={business} />
 
-      <main className="flex-1">
+      <main className="flex-1 pb-20 lg:pb-0">
         <Hero business={business} />
         <BusinessInfo business={business} />
         <MenuSection business={business} />

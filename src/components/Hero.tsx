@@ -8,7 +8,7 @@ interface HeroProps {
 
 export const Hero: React.FC<HeroProps> = ({ business }) => {
   return (
-    <section id="home" className="relative min-h-[85vh] sm:min-h-[90vh] flex items-center justify-center overflow-hidden bg-slate-950">
+    <section id="home" className="relative min-h-[75vh] sm:min-h-[90vh] flex items-center justify-center overflow-hidden bg-slate-950">
       
       {/* Background High-Res Photography with Dark Overlay */}
       <div className="absolute inset-0 z-0">
@@ -25,7 +25,7 @@ export const Hero: React.FC<HeroProps> = ({ business }) => {
       <div className={`absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] rounded-full blur-3xl opacity-20 pointer-events-none ${business.theme.accentGlow}`}></div>
 
       {/* Main Hero Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28 relative z-10 w-full text-center lg:text-left">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 sm:py-28 relative z-10 w-full text-center lg:text-left">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
           <div className="lg:col-span-8 space-y-6 sm:space-y-8">
@@ -41,12 +41,12 @@ export const Hero: React.FC<HeroProps> = ({ business }) => {
             </div>
 
             {/* Headline */}
-            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-black tracking-tight text-white leading-[1.1]">
+            <h1 className="text-3xl sm:text-5xl lg:text-7xl font-black tracking-tight text-white leading-[1.1]">
               {business.hero.headline}
             </h1>
 
             {/* Subheadline */}
-            <p className="text-base sm:text-xl text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed font-normal">
+            <p className="text-sm sm:text-xl text-slate-300 max-w-2xl mx-auto lg:mx-0 leading-relaxed font-normal">
               {business.hero.subheadline}
             </p>
 
