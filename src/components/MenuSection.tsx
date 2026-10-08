@@ -297,7 +297,14 @@ export const MenuSection: React.FC<MenuSectionProps> = ({ business }) => {
                 <div key={item.id} className="group rounded-2xl bg-slate-900 border border-slate-800 hover:border-slate-700 transition-all duration-200 overflow-hidden flex flex-col">
                   {/* Image */}
                   <div className="relative w-full overflow-hidden bg-slate-950" style={{ aspectRatio: '4/3' }}>
-                    <ImageWithFallback src={item.image} alt={item.name} className="group-hover:scale-105 transition-transform duration-500" accentColor={accent} />
+                    <ImageWithFallback
+                      itemName={item.name}
+                      restaurantSlug={business.slug}
+                      fallbackSrc={item.image}
+                      alt={item.name}
+                      className="group-hover:scale-105 transition-transform duration-500"
+                      accentColor={accent}
+                    />
                     {labels.length > 0 && (
                       <div className="absolute top-2 left-2 flex flex-wrap gap-1 max-w-[calc(100%-12px)]">
                         {labels.map(label => (

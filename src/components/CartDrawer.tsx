@@ -85,13 +85,20 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({ business }) => {
                   </button>
                 </div>
 
-                {cart.map(({ item, quantity }) => (
+                {cart.map(({ item, quantity, businessId }) => (
                   <div
                     key={item.id}
                     className="p-3.5 rounded-2xl bg-slate-950/60 border border-slate-800 flex items-center gap-3"
                   >
                     <div className="w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-slate-900">
-                      <ImageWithFallback src={item.image} alt={item.name} className="w-16 h-16" accentColor="#94a3b8" />
+                      <ImageWithFallback
+                        itemName={item.name}
+                        restaurantSlug={businessId}
+                        fallbackSrc={item.image}
+                        alt={item.name}
+                        className="w-16 h-16"
+                        accentColor="#94a3b8"
+                      />
                     </div>
 
                     <div className="flex-1 min-w-0">

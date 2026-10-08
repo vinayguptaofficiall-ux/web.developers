@@ -46,7 +46,9 @@ export const FoodDetailModal: React.FC<FoodDetailModalProps> = ({ business }) =>
         {/* Top Image Banner */}
         <div className="relative h-56 sm:h-64 w-full overflow-hidden bg-slate-950 shrink-0">
           <ImageWithFallback
-            src={selectedFoodItem.image}
+            itemName={selectedFoodItem.name}
+            restaurantSlug={business.slug}
+            fallbackSrc={selectedFoodItem.image}
             alt={selectedFoodItem.name}
             className="w-full h-full"
             accentColor={business.theme.accentHex}
